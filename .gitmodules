@@ -16,7 +16,6 @@
 [submodule "libraries/ota-for-aws-iot-embedded-sdk/ota-for-aws-iot-embedded-sdk"]
 	path = libraries/ota-for-aws-iot-embedded-sdk/ota-for-aws-iot-embedded-sdk
 	url = https://github.com/cosmoBots/ota-for-aws-iot-embedded-sdk.git
-	branch = comp-idf-5.4
 [submodule "libraries/coreJSON/coreJSON"]
 	path = libraries/coreJSON/coreJSON
 	url = https://github.com/FreeRTOS/coreJSON.git
